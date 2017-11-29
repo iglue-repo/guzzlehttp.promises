@@ -1,5 +1,8 @@
 {
-    "name": "guzzlehttp/promises",
+    "name": "guzzlehttp@iglue/promises",
+    "replace": {
+        "guzzlehttp/promises": "v1.3.1"
+    },
     "description": "Guzzle promises library",
     "keywords": ["promise"],
     "license": "MIT",
